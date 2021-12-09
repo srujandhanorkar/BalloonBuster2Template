@@ -54,7 +54,7 @@ function draw() {
       // // moving ground
       // scene.velocityX = -3 
       // //destroy bow
-      // bow.destroy();
+       bow.destroy();
       // //reset the background
       // if (scene.x < 0){
       //     scene.x = scene.width/2;
